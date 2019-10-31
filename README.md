@@ -2,7 +2,9 @@
 
 ## How to run the code
 
-Here is the link:
+Here is the link: https://cliftonia.github.io/EnergyAustraliaCoding-Challange/
+
+Also you can view the Object created by opening up console in your browser and viewing the object
 
 ## App features:
 
