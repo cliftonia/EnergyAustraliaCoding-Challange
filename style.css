@@ -1,0 +1,37 @@
+.UI-card {
+  text-align: center;
+  background: currentColor;
+  padding: 2vmin;
+}
+
+.band-info {
+  background: antiquewhite;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1vmin;
+}
+
+.rec-label-heading {
+  background: aliceblue;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1vmin;
+}
+
+.section-h1 {
+  background: beige;
+  padding: 1vmin;
+  margin-top: 1vmin;
+}
+
+.main-heading {
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+body {
+  background: aliceblue;
+}
