@@ -6,8 +6,8 @@ Here is the link:
 
 ## App features:
 
-- displaying of the data through the web as well as well as the console
-- Sorted Alphabetically
+- Displaying of the data through the web as well as well as the console
+- Sorted alphabetically
 
 ## Technologies
 
